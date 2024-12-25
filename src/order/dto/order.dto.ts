@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 import { EnumOrderStatus } from '@prisma/client'
 import { Type } from 'class-transformer'
 import {
